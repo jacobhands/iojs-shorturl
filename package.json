@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "iojs-shorturl"
+    "url": "git://github.com/jacobhands/iojs-shorturl.git"
+  },
+  "dependencies": {
+    "convict": "^0.6.1",
+    "express": "^4.12.3"
   },
   "keywords": [
     "url",
-    "shortener",
-    "short"
+    "shortener"
   ],
-  "author": "Jacob Hands (github.com/jacobhands)",
+  "author": "Jacob Hands <github.com/jacobhands>",
   "license": "ISC"
 }
