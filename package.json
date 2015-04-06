@@ -11,6 +11,7 @@
     "url": "git://github.com/jacobhands/iojs-shorturl.git"
   },
   "dependencies": {
+    "access-log": "^0.3.9",
     "convict": "^0.6.1",
     "express": "^4.12.3"
   },

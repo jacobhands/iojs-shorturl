@@ -2,7 +2,8 @@
   "urls": {
     "default": {
       "twitch": "http://twitch.tv",
-      "zoho": "http://zoho.com"
+      "zoho": "http://zoho.com",
+      "index": "http://gmail.com"
     },
     "localhost": {
       "index": "http://google.com",

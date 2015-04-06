@@ -1,3 +1,14 @@
 {
-
+  "configs": [
+    "./urls.json",
+    "./config.json"
+  ],
+  "options": {
+    "useDefaultKey": true,
+    "useDefaultHost": true,
+    "root": {
+      "useDefaultKey": true,
+      "useDefaultHost": true
+    }
+  }
 }
